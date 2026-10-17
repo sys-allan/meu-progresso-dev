@@ -74,13 +74,13 @@ Cada desafio é refeito várias vezes até conseguir fazer de memória, sem cons
 ---
 
 ## 📂 Estrutura do Repositório
-================================================================================================================
+
 minha evolução como dev e progresso. tudo o que eu aprender e praticar, vou colocar aqui e no (linkdin).
+
 I.A SEMPRE VAI ESTAR PRESENTE PARA ME AJUDAR. MAIS AQUI E NOS MEUS PROJETOS QUEM MEXE E EU ELE SO ME AUXILIA
 PODE TER CARA DE I.A MAIS EU SEMPRE VOU SER CONTRA DE SER VIBE CODE! 
-================================================================================================================
 
+só quero aprender e evoluir fazer  (soft skills,hard skills) 
 
-==============================================================================
-ATUALIZAÇÃO CONSTANTEMENTE E COM CARA DE IA ISSO ESTÁ ESTOU DEIXANDO CLARO
-==============================================================================
+ATUALIZAÇÃO CONSTANTEMENTE. E ISSO ESTA COM CARA DE I.A, ESTOU DEIXANDO CLARO.
+
