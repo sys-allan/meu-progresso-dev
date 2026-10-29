@@ -1,0 +1,13 @@
+
+
+
+@media (max-width: 768px) {
+.container {
+    width: 380px;
+}
+
+.info-usuario {
+    position: relative;
+    left: -23px;
+}
+}
